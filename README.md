@@ -11,7 +11,7 @@
   </p>
 </p>
 
-![ss](https://github.com/0xr4Gn4R/StegApp/blob/main/Pictures/Screenshot%202021-10-11%20204841.png)
+![ss](https://github.com/dsccvrgu/StegApp/blob/main/Pictures/Screenshot%202021-10-11%20204841.png)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -60,7 +60,7 @@ Install :
 2. Go to your desired directory
 3. Clone the repo
    ```sh
-   git clone https://github.com/0xr4Gn4R/StegApp.git
+   git clone https://github.com/dsccvrgu/StegApp.git
    ```
 3. Get into the directory
    ```sh
@@ -78,7 +78,7 @@ Install :
 
 ## Reporting Issues
 
-If you think you've found a bug, or something isn't behaving the way you think it should, please raise an  [issue](https://github.com/0xr4Gn4R/StegApp/issues)  on GitHub.
+If you think you've found a bug, or something isn't behaving the way you think it should, please raise an  [issue](https://github.com/dsccvrgu/StegApp/issues)  on GitHub.
 
 ## Links
 
