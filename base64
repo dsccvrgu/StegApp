@@ -1,0 +1,3 @@
+In AES file we have changed ciphertext to hexadecimal.
+But Base64 conversion is more compact and provides more typical string to transmit.
+This Base64 is not found in python so how can we use it if we want to do so.
